@@ -16,6 +16,5 @@ We've used industry-standard design tools to create an intuitive and visually ap
 - HTML
 - CSS
 - JavaScript
-- jQuery
-- Bootstrap
+ 
 
