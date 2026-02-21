@@ -1,3 +1,4 @@
+ 
 # Password Strength Checker 💪🔐
  
 
@@ -14,3 +15,5 @@ The purpose of this project is to provide you with an easy-to-use tool to evalua
 - JavaScript
  
 
+=======
+ 
